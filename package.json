@@ -10,6 +10,6 @@
     "url": "https://github.com/joliss/broccoli-transform"
   },
   "dependencies": {
-    "quick-temp": "~0.0.2"
+    "quick-temp": "^0.1.0"
   }
 }
