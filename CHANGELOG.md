@@ -1,5 +1,7 @@
 # master
 
+# 0.1.1
+
 * Add base class constructor
 
 # 0.1.0
