@@ -1,5 +1,7 @@
 # master
 
+* Add base class constructor
+
 # 0.1.0
 
 * Bump version without change, to allow for caret/tilde dependencies

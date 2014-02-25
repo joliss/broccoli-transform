@@ -1,7 +1,9 @@
 var quickTemp = require('quick-temp')
 
 module.exports = Transform
-function Transform () {}
+function Transform (inputTree) {
+  this.inputTree = inputTree
+}
 
 Transform.prototype.read = function (readTree) {
   var self = this
